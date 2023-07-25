@@ -14,8 +14,8 @@
 
 :root {
 	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
-	--app-blur: 12px;
-	--app-margin: 24px;
+	--app-blur: 0px;
+	--app-margin: 12px;
 	--app-radius: 8px; /*	-	*/
 	
 	--accent-hue: 156;
