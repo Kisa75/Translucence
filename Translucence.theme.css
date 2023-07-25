@@ -14,7 +14,7 @@
 
 :root {
 	--app-bg: url(https://i.imgur.com/bgmVeyt.jpg);
-	--app-blur: 0px;
+	--app-blur: 128px;
 	--app-margin: 12px;
 	--app-radius: 8px; /*	-	*/
 	
